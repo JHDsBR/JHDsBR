@@ -1,4 +1,4 @@
-<div align="right" style='padding-left:20px'>
+<div align="right">
   <a href="https://bit.ly/3aheV12" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"></a>
   <a href="https://bit.ly/3daIy7d" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
   <a href="https://bit.ly/30St0mV" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"></a> 
@@ -6,7 +6,7 @@
 
 
 <h1> 
-  Olá! Eu sou o Jessé &nbsp; 
+  Oi! Eu sou o Jessé &nbsp; 
   <img height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 </h1>
