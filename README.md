@@ -7,8 +7,8 @@
 
 <h1> 
   Olá! Eu sou o Jessé &nbsp; 
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+  <img height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img height="25" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 </h1>
 
 <br>
