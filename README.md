@@ -4,20 +4,20 @@
   <a href="bit.ly/30St0mV" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+
 <h1> 
   Olá! Eu sou o Jessé &nbsp; 
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 </h1>
 
 <br>
 
 <div>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JHDsBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHDsBR&layout=compact&langs_count=16&theme=dark"/>
-  <img align="right" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img align="right" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <br>
-  <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JHDsBR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHDsBR&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
 
 ##
 
