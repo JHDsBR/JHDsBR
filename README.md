@@ -1,3 +1,8 @@
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/dev-joanderson/count.svg" />  
+</p>
+
+
 <div align="right">
   <a href="https://bit.ly/3aheV12" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"></a>
   <a href="https://bit.ly/3daIy7d" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
