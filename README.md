@@ -1,8 +1,12 @@
 <p align="right" >   
-  <img src="https://profile-counter.glitch.me/jhdsbr/count.svg" />  
+  <img src="https://www.codewars.com/users/JHDsBR/badges/large" />   
+  <br>
+  <br>
+  <img src="https://profile-counter.glitch.me/jhdsbr/count.svg" />
 </p>
 
 <div align="right">
+  
   <a href="https://bit.ly/3aheV12" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"></a>
   <a href="https://bit.ly/3daIy7d" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
   <a href="https://bit.ly/30St0mV" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"></a> 
