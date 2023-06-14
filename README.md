@@ -1,6 +1,5 @@
 <p align="right" >   
-  <img src="https://www.codewars.com/users/JHDsBR/badges/large" />   
-  <br>
+  <img src="https://www.codewars.com/users/JHDsBR/badges/small" />   
   <br>
   <img src="https://profile-counter.glitch.me/jhdsbr/count.svg" />
 </p>
